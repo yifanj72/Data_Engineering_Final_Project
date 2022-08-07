@@ -1,8 +1,9 @@
 # Data-Engineering-Final-Project
-## Description
+## Advices For Taxi Drivers - How to Earn Money Efficiently
+### Description
 Based on comprehensive historical taxi trip data, we aim to generate insights and business value for taxi drivers. In order to do this, we need to understand the factors that have influenced the amount of money they have earned in the past. 
 
-## Files
+### Files
 1. BI Folder: this folder includes all the tableau dashboards and reports we created in Tableau
 2. Script Folder:
     * Taxi Trips Data Processing: Data cleansing for taxi trip dataset. 
